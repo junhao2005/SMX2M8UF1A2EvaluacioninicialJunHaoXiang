@@ -1,7 +1,7 @@
 # Evaluación inicial
 
 #### 1. ¿Qué es una página web?
-<font color="red">Los sitios web están compuestos por páginas que suelen estar enlazadas a un menú general y su contenido gira en torno a un tema central.</font>
+<span style="color:red">Los sitios web están compuestos por páginas que suelen estar enlazadas a un menú general y su contenido gira en torno a un tema central.</span>.
 #### 2. ¿Qué es un sitio web?
 <font color="red">Los sitios web están compuestos por páginas que suelen estar enlazadas a un menú general y su contenido gira en torno a un tema central.</font>
 #### 3. ¿Qué es una aplicación web?
