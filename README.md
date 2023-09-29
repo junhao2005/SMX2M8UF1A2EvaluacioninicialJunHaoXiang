@@ -9,3 +9,17 @@ Una aplicación web es un software cliente-servidor que permite realizar funcion
 #### 4. ¿Qué es una herramienta ofimática?
 las herramientas ofimáticas son aquellos programas o aplicaciones que nos permiten manipular informáticamente la información con la que se trabaja de forma habitual en una oficina.
 
+#### 5. [link](https://www.google.com/intl/es-419/chrome/browser-tools/"Herramientas de Google:")
+
+|Aplicaciones | Vistos |
+|----------|:----------:|
+|Google Docs|✔️|
+|Google Slides|✔️|
+|Google Sheets|✔️|
+|Google Calendar|📅|
+|Google Meet|💻|
+|...|...|
+
+
+
+
