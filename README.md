@@ -37,6 +37,11 @@ El Lenguaje de Marcado de Hipertexto (HTML) es el código que se utiliza para es
 </body>
 </html>
 ```
+#### 7. ¿Qué es CSS?
+CSS es uno de los lenguajes más importantes que se utilizan para ordenar las instrucciones referentes a la apariencia de un sitio y presentar los contenidos de una página de forma atractiva. 
+
+#### 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
+![Alt text](image.png)
 
 
 
