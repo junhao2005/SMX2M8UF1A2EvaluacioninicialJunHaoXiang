@@ -33,6 +33,9 @@ El Lenguaje de Marcado de Hipertexto (HTML) es el código que se utiliza para es
     <title>Document</title>
 </head>  
 <body>
+
+</body>
+</html>
 ```
 
 
