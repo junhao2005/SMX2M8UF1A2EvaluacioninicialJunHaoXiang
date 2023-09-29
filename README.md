@@ -7,7 +7,7 @@
 #### 3. ¿Qué es una aplicación web?
 <font color="red">Una aplicación web es un software cliente-servidor que permite realizar funciones determinadas en internet, como enviar mensajes, realizar compras, editar imágenes, jugar videojuegos, hacer pagos, entre otras acciones.</font>
 #### 4. ¿Qué es una herramienta ofimática?
-<font color="red">las herramientas ofimáticas son aquellos programas o aplicaciones que nos permiten manipular informáticamente la información con la que se trabaja de forma habitual en una oficina.</font>
+<font color="red">Las herramientas ofimáticas son aquellos programas o aplicaciones que nos permiten manipular informáticamente la información con la que se trabaja de forma habitual en una oficina.</font>
 
 #### 5. [Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools/ "Herramientas de Google:")
 
